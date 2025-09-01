@@ -1,0 +1,7 @@
+facility_id,service_type,year,expenditure_ZAR
+F001,General Practitioner,2022,1200000
+F001,Specialist Care,2022,800000
+F002,Hospital Admissions,2022,3500000
+F002,Medication,2022,1500000
+F003,General Practitioner,2023,1300000
+F003,Hospital Admissions,2023,4000000

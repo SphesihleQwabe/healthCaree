@@ -1,0 +1,46 @@
+district_id,province_id,district_name
+1,1,Gauteng District 1
+2,1,Gauteng District 2
+3,1,Gauteng District 3
+4,1,Gauteng District 4
+5,1,Gauteng District 5
+6,2,Western Cape District 1
+7,2,Western Cape District 2
+8,2,Western Cape District 3
+9,2,Western Cape District 4
+10,2,Western Cape District 5
+11,3,KwaZulu-Natal District 1
+12,3,KwaZulu-Natal District 2
+13,3,KwaZulu-Natal District 3
+14,3,KwaZulu-Natal District 4
+15,3,KwaZulu-Natal District 5
+16,4,Eastern Cape District 1
+17,4,Eastern Cape District 2
+18,4,Eastern Cape District 3
+19,4,Eastern Cape District 4
+20,4,Eastern Cape District 5
+21,5,Free State District 1
+22,5,Free State District 2
+23,5,Free State District 3
+24,5,Free State District 4
+25,5,Free State District 5
+26,6,Limpopo District 1
+27,6,Limpopo District 2
+28,6,Limpopo District 3
+29,6,Limpopo District 4
+30,6,Limpopo District 5
+31,7,Mpumalanga District 1
+32,7,Mpumalanga District 2
+33,7,Mpumalanga District 3
+34,7,Mpumalanga District 4
+35,7,Mpumalanga District 5
+36,8,North West District 1
+37,8,North West District 2
+38,8,North West District 3
+39,8,North West District 4
+40,8,North West District 5
+41,9,Northern Cape District 1
+42,9,Northern Cape District 2
+43,9,Northern Cape District 3
+44,9,Northern Cape District 4
+45,9,Northern Cape District 5

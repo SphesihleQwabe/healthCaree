@@ -1,0 +1,225 @@
+facility_id,facility_name,facility_type,province_id,district_id
+1,Private Hospital GP-1-1,Private Hospital,1,1
+2,Private GP Practice GP-1-2,Private GP Practice,1,1
+3,Clinic GP-1-3,Clinic,1,1
+4,Clinic GP-1-4,Clinic,1,1
+5,Clinic GP-1-5,Clinic,1,1
+6,Regional Hospital GP-1-6,Regional Hospital,1,1
+7,Clinic GP-2-1,Clinic,1,2
+8,Community Health Centre GP-2-2,Community Health Centre,1,2
+9,Regional Hospital GP-2-3,Regional Hospital,1,2
+10,Clinic GP-2-4,Clinic,1,2
+11,Community Health Centre GP-2-5,Community Health Centre,1,2
+12,Clinic GP-2-6,Clinic,1,2
+13,Clinic GP-3-1,Clinic,1,3
+14,Private GP Practice GP-3-2,Private GP Practice,1,3
+15,District Hospital GP-3-3,District Hospital,1,3
+16,Community Health Centre GP-3-4,Community Health Centre,1,3
+17,District Hospital GP-3-5,District Hospital,1,3
+18,Private GP Practice GP-4-1,Private GP Practice,1,4
+19,Regional Hospital GP-4-2,Regional Hospital,1,4
+20,Community Health Centre GP-4-3,Community Health Centre,1,4
+21,Regional Hospital GP-5-1,Regional Hospital,1,5
+22,Private GP Practice GP-5-2,Private GP Practice,1,5
+23,Community Health Centre GP-5-3,Community Health Centre,1,5
+24,Clinic GP-5-4,Clinic,1,5
+25,Regional Hospital GP-5-5,Regional Hospital,1,5
+26,Private GP Practice GP-5-6,Private GP Practice,1,5
+27,Clinic GP-5-7,Clinic,1,5
+28,District Hospital WC-6-1,District Hospital,2,6
+29,Private GP Practice WC-6-2,Private GP Practice,2,6
+30,Regional Hospital WC-6-3,Regional Hospital,2,6
+31,Regional Hospital WC-7-1,Regional Hospital,2,7
+32,Clinic WC-7-2,Clinic,2,7
+33,Community Health Centre WC-7-3,Community Health Centre,2,7
+34,Private GP Practice WC-7-4,Private GP Practice,2,7
+35,Clinic WC-7-5,Clinic,2,7
+36,Private GP Practice WC-7-6,Private GP Practice,2,7
+37,Clinic WC-7-7,Clinic,2,7
+38,Clinic WC-8-1,Clinic,2,8
+39,Clinic WC-8-2,Clinic,2,8
+40,Regional Hospital WC-8-3,Regional Hospital,2,8
+41,Regional Hospital WC-8-4,Regional Hospital,2,8
+42,Private GP Practice WC-9-1,Private GP Practice,2,9
+43,Private GP Practice WC-9-2,Private GP Practice,2,9
+44,Private Hospital WC-9-3,Private Hospital,2,9
+45,District Hospital WC-9-4,District Hospital,2,9
+46,District Hospital WC-9-5,District Hospital,2,9
+47,District Hospital WC-9-6,District Hospital,2,9
+48,Regional Hospital WC-10-1,Regional Hospital,2,10
+49,District Hospital WC-10-2,District Hospital,2,10
+50,Clinic WC-10-3,Clinic,2,10
+51,Private GP Practice WC-10-4,Private GP Practice,2,10
+52,Clinic KZN-11-1,Clinic,3,11
+53,Clinic KZN-11-2,Clinic,3,11
+54,District Hospital KZN-11-3,District Hospital,3,11
+55,Clinic KZN-11-4,Clinic,3,11
+56,Clinic KZN-11-5,Clinic,3,11
+57,District Hospital KZN-12-1,District Hospital,3,12
+58,Community Health Centre KZN-12-2,Community Health Centre,3,12
+59,Regional Hospital KZN-12-3,Regional Hospital,3,12
+60,Regional Hospital KZN-12-4,Regional Hospital,3,12
+61,Clinic KZN-12-5,Clinic,3,12
+62,Private GP Practice KZN-12-6,Private GP Practice,3,12
+63,Tertiary Hospital KZN-12-7,Tertiary Hospital,3,12
+64,Clinic KZN-13-1,Clinic,3,13
+65,Regional Hospital KZN-13-2,Regional Hospital,3,13
+66,District Hospital KZN-13-3,District Hospital,3,13
+67,Private GP Practice KZN-13-4,Private GP Practice,3,13
+68,Regional Hospital KZN-13-5,Regional Hospital,3,13
+69,Private Hospital KZN-14-1,Private Hospital,3,14
+70,Community Health Centre KZN-14-2,Community Health Centre,3,14
+71,Clinic KZN-14-3,Clinic,3,14
+72,District Hospital KZN-14-4,District Hospital,3,14
+73,District Hospital KZN-14-5,District Hospital,3,14
+74,Private Hospital KZN-15-1,Private Hospital,3,15
+75,Community Health Centre KZN-15-2,Community Health Centre,3,15
+76,District Hospital KZN-15-3,District Hospital,3,15
+77,Tertiary Hospital KZN-15-4,Tertiary Hospital,3,15
+78,District Hospital KZN-15-5,District Hospital,3,15
+79,Tertiary Hospital KZN-15-6,Tertiary Hospital,3,15
+80,Clinic EC-16-1,Clinic,4,16
+81,Tertiary Hospital EC-16-2,Tertiary Hospital,4,16
+82,Tertiary Hospital EC-16-3,Tertiary Hospital,4,16
+83,Regional Hospital EC-16-4,Regional Hospital,4,16
+84,Clinic EC-17-1,Clinic,4,17
+85,Private GP Practice EC-17-2,Private GP Practice,4,17
+86,District Hospital EC-17-3,District Hospital,4,17
+87,Regional Hospital EC-17-4,Regional Hospital,4,17
+88,Regional Hospital EC-18-1,Regional Hospital,4,18
+89,Regional Hospital EC-18-2,Regional Hospital,4,18
+90,Regional Hospital EC-18-3,Regional Hospital,4,18
+91,Community Health Centre EC-18-4,Community Health Centre,4,18
+92,Community Health Centre EC-19-1,Community Health Centre,4,19
+93,District Hospital EC-19-2,District Hospital,4,19
+94,District Hospital EC-19-3,District Hospital,4,19
+95,Private Hospital EC-19-4,Private Hospital,4,19
+96,Clinic EC-20-1,Clinic,4,20
+97,Regional Hospital EC-20-2,Regional Hospital,4,20
+98,Clinic EC-20-3,Clinic,4,20
+99,Clinic EC-20-4,Clinic,4,20
+100,Clinic EC-20-5,Clinic,4,20
+101,Regional Hospital EC-20-6,Regional Hospital,4,20
+102,Private Hospital FS-21-1,Private Hospital,5,21
+103,Regional Hospital FS-21-2,Regional Hospital,5,21
+104,Clinic FS-21-3,Clinic,5,21
+105,Community Health Centre FS-22-1,Community Health Centre,5,22
+106,Tertiary Hospital FS-22-2,Tertiary Hospital,5,22
+107,Private GP Practice FS-22-3,Private GP Practice,5,22
+108,Community Health Centre FS-22-4,Community Health Centre,5,22
+109,Community Health Centre FS-23-1,Community Health Centre,5,23
+110,Tertiary Hospital FS-23-2,Tertiary Hospital,5,23
+111,District Hospital FS-23-3,District Hospital,5,23
+112,District Hospital FS-23-4,District Hospital,5,23
+113,Regional Hospital FS-23-5,Regional Hospital,5,23
+114,Community Health Centre FS-23-6,Community Health Centre,5,23
+115,District Hospital FS-23-7,District Hospital,5,23
+116,Clinic FS-24-1,Clinic,5,24
+117,District Hospital FS-24-2,District Hospital,5,24
+118,District Hospital FS-24-3,District Hospital,5,24
+119,Clinic FS-24-4,Clinic,5,24
+120,District Hospital FS-24-5,District Hospital,5,24
+121,Clinic FS-25-1,Clinic,5,25
+122,Community Health Centre FS-25-2,Community Health Centre,5,25
+123,Clinic FS-25-3,Clinic,5,25
+124,Regional Hospital FS-25-4,Regional Hospital,5,25
+125,District Hospital FS-25-5,District Hospital,5,25
+126,District Hospital FS-25-6,District Hospital,5,25
+127,Community Health Centre LP-26-1,Community Health Centre,6,26
+128,Regional Hospital LP-26-2,Regional Hospital,6,26
+129,Regional Hospital LP-26-3,Regional Hospital,6,26
+130,District Hospital LP-27-1,District Hospital,6,27
+131,Tertiary Hospital LP-27-2,Tertiary Hospital,6,27
+132,Clinic LP-27-3,Clinic,6,27
+133,Regional Hospital LP-28-1,Regional Hospital,6,28
+134,Tertiary Hospital LP-28-2,Tertiary Hospital,6,28
+135,Regional Hospital LP-28-3,Regional Hospital,6,28
+136,Community Health Centre LP-29-1,Community Health Centre,6,29
+137,Clinic LP-29-2,Clinic,6,29
+138,District Hospital LP-29-3,District Hospital,6,29
+139,Tertiary Hospital LP-30-1,Tertiary Hospital,6,30
+140,Tertiary Hospital LP-30-2,Tertiary Hospital,6,30
+141,Tertiary Hospital LP-30-3,Tertiary Hospital,6,30
+142,Clinic LP-30-4,Clinic,6,30
+143,Private GP Practice LP-30-5,Private GP Practice,6,30
+144,Clinic LP-30-6,Clinic,6,30
+145,Clinic LP-30-7,Clinic,6,30
+146,Clinic MP-31-1,Clinic,7,31
+147,Clinic MP-31-2,Clinic,7,31
+148,Community Health Centre MP-31-3,Community Health Centre,7,31
+149,District Hospital MP-31-4,District Hospital,7,31
+150,Private Hospital MP-32-1,Private Hospital,7,32
+151,Clinic MP-32-2,Clinic,7,32
+152,Clinic MP-32-3,Clinic,7,32
+153,Private GP Practice MP-32-4,Private GP Practice,7,32
+154,Clinic MP-32-5,Clinic,7,32
+155,Tertiary Hospital MP-32-6,Tertiary Hospital,7,32
+156,Regional Hospital MP-33-1,Regional Hospital,7,33
+157,Tertiary Hospital MP-33-2,Tertiary Hospital,7,33
+158,Clinic MP-33-3,Clinic,7,33
+159,District Hospital MP-33-4,District Hospital,7,33
+160,Private Hospital MP-33-5,Private Hospital,7,33
+161,Clinic MP-33-6,Clinic,7,33
+162,Clinic MP-34-1,Clinic,7,34
+163,Private Hospital MP-34-2,Private Hospital,7,34
+164,Clinic MP-34-3,Clinic,7,34
+165,Clinic MP-34-4,Clinic,7,34
+166,Private GP Practice MP-34-5,Private GP Practice,7,34
+167,District Hospital MP-34-6,District Hospital,7,34
+168,Community Health Centre MP-35-1,Community Health Centre,7,35
+169,Private Hospital MP-35-2,Private Hospital,7,35
+170,Clinic MP-35-3,Clinic,7,35
+171,District Hospital MP-35-4,District Hospital,7,35
+172,District Hospital MP-35-5,District Hospital,7,35
+173,Clinic MP-35-6,Clinic,7,35
+174,Regional Hospital MP-35-7,Regional Hospital,7,35
+175,Clinic NW-36-1,Clinic,8,36
+176,Clinic NW-36-2,Clinic,8,36
+177,Clinic NW-36-3,Clinic,8,36
+178,Private GP Practice NW-36-4,Private GP Practice,8,36
+179,Clinic NW-36-5,Clinic,8,36
+180,Tertiary Hospital NW-36-6,Tertiary Hospital,8,36
+181,District Hospital NW-36-7,District Hospital,8,36
+182,District Hospital NW-37-1,District Hospital,8,37
+183,Clinic NW-37-2,Clinic,8,37
+184,Clinic NW-37-3,Clinic,8,37
+185,Community Health Centre NW-37-4,Community Health Centre,8,37
+186,Private Hospital NW-37-5,Private Hospital,8,37
+187,Clinic NW-37-6,Clinic,8,37
+188,District Hospital NW-38-1,District Hospital,8,38
+189,Clinic NW-38-2,Clinic,8,38
+190,Private GP Practice NW-38-3,Private GP Practice,8,38
+191,Clinic NW-38-4,Clinic,8,38
+192,Private GP Practice NW-38-5,Private GP Practice,8,38
+193,Regional Hospital NW-38-6,Regional Hospital,8,38
+194,Clinic NW-38-7,Clinic,8,38
+195,District Hospital NW-39-1,District Hospital,8,39
+196,Regional Hospital NW-39-2,Regional Hospital,8,39
+197,Private GP Practice NW-39-3,Private GP Practice,8,39
+198,Clinic NW-40-1,Clinic,8,40
+199,Regional Hospital NW-40-2,Regional Hospital,8,40
+200,Clinic NW-40-3,Clinic,8,40
+201,District Hospital NW-40-4,District Hospital,8,40
+202,District Hospital NW-40-5,District Hospital,8,40
+203,Clinic NW-40-6,Clinic,8,40
+204,District Hospital NC-41-1,District Hospital,9,41
+205,Private GP Practice NC-41-2,Private GP Practice,9,41
+206,Clinic NC-41-3,Clinic,9,41
+207,District Hospital NC-42-1,District Hospital,9,42
+208,Clinic NC-42-2,Clinic,9,42
+209,Clinic NC-42-3,Clinic,9,42
+210,Clinic NC-42-4,Clinic,9,42
+211,Clinic NC-42-5,Clinic,9,42
+212,Private Hospital NC-43-1,Private Hospital,9,43
+213,District Hospital NC-43-2,District Hospital,9,43
+214,Clinic NC-43-3,Clinic,9,43
+215,Clinic NC-43-4,Clinic,9,43
+216,Community Health Centre NC-43-5,Community Health Centre,9,43
+217,District Hospital NC-43-6,District Hospital,9,43
+218,Clinic NC-44-1,Clinic,9,44
+219,Clinic NC-44-2,Clinic,9,44
+220,District Hospital NC-44-3,District Hospital,9,44
+221,Community Health Centre NC-44-4,Community Health Centre,9,44
+222,Community Health Centre NC-45-1,Community Health Centre,9,45
+223,Regional Hospital NC-45-2,Regional Hospital,9,45
+224,Tertiary Hospital NC-45-3,Tertiary Hospital,9,45
